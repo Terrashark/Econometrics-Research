@@ -1,0 +1,171 @@
+﻿CountryNames,CountryCode,IndicatorName,Year(2010),Year(2011),Year(2012),Year(2013),Year(2014),Year(2015),Year(2016),Year(2017),Year(2018)
+Albania,ALB,cpi,-,-,0.92,-,0.95,0.98,0.98,1,1.02
+Algeria,DZA,cpi,-,0.75,-,-,-,-,-,-,-
+Angola,AGO,cpi,-,-,-,-,-,-,-,-,1.23
+Argentina,ARG,cpi,0.18,0.22,0.27,0.34,0.48,-,0.85,1.05,1.49
+Armenia,ARM,cpi,0.81,0.87,0.89,0.94,0.97,1,0.99,1,1.03
+Australia,AUS,cpi,0.86,-,-,-,0.95,-,0.98,-,1.02
+Austria,AUT,cpi,0.88,0.91,0.93,0.95,0.96,0.97,0.98,1,1.02
+Azerbaijan,AZE,cpi,-,-,-,-,-,-,-,-,-
+Bangladesh,BGD,cpi,0.67,-,-,-,-,-,0.95,-,-
+Belarus,BLR,cpi,0.22,0.33,0.53,0.63,0.74,0.84,0.94,1,1.05
+Belgium,BEL,cpi,0.88,0.92,0.94,0.95,0.95,0.96,0.98,1,1.02
+Belize,BLZ,cpi,-,-,-,-,-,-,-,-,-
+Benin,BEN,cpi,-,0.95,-,-,-,0.99,-,-,1
+Bhutan,BTN,cpi,-,-,0.75,-,-,-,-,1,-
+Bolivia,BOL,cpi,-,0.78,0.82,0.88,0.91,0.95,0.98,1.01,1.03
+Bosnia and Herzegovina,BIH,cpi,-,1.01,-,-,-,-,-,-,-
+Botswana,BWA,cpi,-,-,-,-,-,0.96,-,-,-
+Brazil,BRA,cpi,-,0.69,0.72,0.77,0.82,0.89,0.97,1,1.04
+Bulgaria,BGR,cpi,0.93,0.97,0.99,1,0.99,0.99,0.98,1,1.03
+Burkina Faso,BFA,cpi,-,-,-,-,0.97,-,-,-,1
+Burundi,BDI,cpi,-,-,-,0.76,-,-,-,-,-
+Cabo Verde,CPV,cpi,-,-,-,-,-,1.01,-,-,-
+Cameroon,CMR,cpi,-,-,-,-,0.96,-,-,-,-
+Canada,CAN,cpi,0.89,0.92,0.93,0.94,0.96,0.97,0.98,1,1.02
+Central African Republic,CAF,cpi,-,-,-,-,-,-,-,-,-
+Chad,TCD,cpi,-,0.9,-,-,-,-,-,-,1.04
+Chile,CHL,cpi,-,0.84,-,0.87,-,0.96,-,1.01,-
+China,CHN,cpi,0.77,0.85,0.88,0.91,0.94,0.95,0.99,1,1.02
+China,CHN,cpi,0.83,0.88,0.91,0.93,0.95,0.96,0.98,1,1.02
+Colombia,COL,cpi,0.76,0.79,0.81,0.83,0.86,0.91,0.97,1.01,1.04
+Comoros,COM,cpi,-,-,-,-,0.98,-,-,-,-
+"Congo, Dem. Rep",COD,cpi,-,-,0.7,-,-,-,-,-,-
+"Congo, Rep.",COG,cpi,-,0.87,-,-,-,-,-,-,-
+Costa Rica,CRI,cpi,0.81,0.85,0.89,0.94,0.99,0.98,0.99,1,1.02
+Cote d'Ivoire,CIV,cpi,-,-,-,-,-,0.99,-,-,1
+Croatia,HRV,cpi,0.93,0.95,0.99,1.01,1,1,0.99,1,1.01
+Cyprus,CYP,cpi,0.99,1.02,1.05,1.04,1.03,1.01,0.99,1,1.01
+Czech Republic,CZE,cpi,0.9,0.92,0.95,0.96,0.97,0.97,0.98,1,1.02
+Denmark,DNK,cpi,0.92,0.95,0.97,0.98,0.98,0.99,0.99,1,1.01
+Djibouti,DJI,cpi,-,-,0.94,0.96,-,-,-,1,-
+Dominican Republic,DOM,cpi,0.8,0.86,0.88,0.93,0.95,0.96,0.97,1,1.04
+Ecuador,ECU,cpi,0.81,0.86,0.9,0.92,0.95,0.99,1,0.99,1
+"Egypt, Arab Rep.",EGY,cpi,0.45,-,0.53,-,-,0.68,-,1.11,-
+El Salvador,SLV,cpi,0.92,0.97,0.97,0.98,0.99,1,0.99,1,1.02
+Estonia,EST,cpi,13.55,0.91,0.95,0.97,0.97,0.97,0.97,1,1.03
+Eswatini,SWZ,cpi,-,-,-,-,-,-,0.95,-,-
+Ethiopia,ETH,cpi,0.48,-,-,-,-,0.86,-,-,-
+Fiji,FJI,cpi,-,-,-,0.92,-,-,-,-,-
+Finland,FIN,cpi,0.91,0.94,0.97,0.98,0.99,0.99,0.99,1,1.01
+France,FRA,cpi,0.94,0.96,0.97,0.98,0.99,0.99,0.99,1,1.02
+Gabon,GAB,cpi,-,-,-,-,-,-,-,1,-
+"Gambia, The",GMB,cpi,0.66,-,-,-,-,0.88,-,-,-
+Georgia,GEO,cpi,0.81,0.87,0.87,0.86,0.89,0.92,0.94,1,1.03
+Germany,DEU,cpi,0.91,0.93,0.95,0.97,0.98,0.98,0.99,1,1.02
+Ghana,GHA,cpi,-,-,0.73,-,-,-,0.97,-,-
+Greece,GRC,cpi,0.99,1.02,1.04,1.03,1.01,1,0.99,1,1.01
+Guatemala,GTM,cpi,-,-,-,-,0.9,-,-,-,-
+Guinea,GIN,cpi,-,-,0.64,-,-,-,-,-,1.15
+Guinea-Bissau,GNB,cpi,0.89,-,-,-,-,-,-,-,1
+Guyana,GUY,cpi,-,-,-,-,-,-,-,-,-
+Haiti,HTI,cpi,-,-,0.72,-,-,-,-,-,-
+Honduras,HND,cpi,0.72,0.77,0.81,0.85,0.9,0.94,0.96,1,1.04
+Hungary,HUN,cpi,0.87,0.91,0.96,0.98,0.97,0.97,0.98,1,1.03
+Iceland,ISL,cpi,0.82,0.85,0.9,0.93,0.95,0.97,0.98,1,-
+India,IND,cpi,-,0.7,-,-,-,0.95,0.98,1.01,1.03
+India,IND,cpi,-,0.71,-,-,-,0.94,0.98,1.01,1.07
+Indonesia,IDN,cpi,0.69,0.73,0.76,0.8,0.86,0.92,0.96,0.99,1.02
+"Iran, Islamic Rep.",IRN,cpi,-,-,-,0.68,0.79,0.88,0.94,1.04,1.29
+Iraq,IRQ,cpi,-,-,0.94,-,-,-,-,-,-
+Ireland,IRL,cpi,0.95,0.98,0.99,1,1,1,1,1,1
+Israel,ISR,cpi,0.94,0.97,0.99,1,1.01,1,1,1,1.01
+Italy,ITA,cpi,0.92,0.95,0.97,0.99,0.99,0.99,0.99,1,1.01
+Jamaica,JAM,cpi,-,-,-,-,-,-,-,-,-
+Japan,JPN,cpi,0.96,-,-,0.96,-,-,-,-,-
+Jordan,JOR,cpi,0.85,-,-,-,-,-,-,-,-
+Kazakhstan,KAZ,cpi,0.59,0.64,0.67,0.71,0.76,0.81,0.93,1,1.06
+Kenya,KEN,cpi,-,-,-,-,-,0.91,-,-,-
+Kiribati,KIR,cpi,-,-,-,-,-,-,-,-,-
+"Korea, Rep.",KOR,cpi,0.88,-,0.94,-,0.96,-,0.98,-,-
+Kosovo,XKX,cpi,0.88,0.94,0.97,0.98,0.99,0.98,0.99,1,-
+Kyrgyz Republic,KGZ,cpi,0.66,0.77,0.79,0.84,0.91,0.97,0.97,1,1.02
+Lao PDR,LAO,cpi,-,-,0.88,-,-,-,-,-,1.03
+Latvia,LVA,cpi,0.63,0.66,0.68,0.68,0.97,0.97,0.97,1,1.03
+Lebanon,LBN,cpi,-,0.91,-,-,-,-,-,-,-
+Lesotho,LSO,cpi,-,-,-,-,-,-,-,1.01,-
+Liberia,LBR,cpi,-,-,-,-,0.76,-,0.89,-,-
+Lithuania,LTU,cpi,3.07,3.19,3.29,3.33,3.33,0.96,0.96,1,1.03
+Luxembourg,LUX,cpi,0.9,0.93,0.95,0.97,0.98,0.98,0.98,1,1.02
+Madagascar,MDG,cpi,0.62,-,0.75,-,-,-,-,-,-
+Malawi,MWI,cpi,0.25,-,-,-,-,-,0.93,-,-
+Malaysia,MYS,cpi,-,0.86,-,0.9,-,0.96,-,-,1.01
+Maldives,MDV,cpi,-,-,-,-,-,-,0.97,-,-
+Mali,MLI,cpi,-,-,-,-,-,-,-,-,0.99
+Malta,MLT,cpi,0.91,0.93,0.96,0.97,0.97,0.98,0.99,1,1.01
+Marshall Islands,MHL,cpi,-,-,-,-,-,-,-,-,-
+Mauritania,MRT,cpi,-,-,-,-,0.93,-,-,-,-
+Mauritius,MUS,cpi,-,-,0.88,-,-,-,-,1,-
+Mexico,MEX,cpi,0.77,-,0.83,-,0.89,-,0.94,-,1.05
+"Micronesia,  Fed. Sts.",FSM,cpi,-,-,-,1,-,-,-,-,-
+Moldova,MDA,cpi,0.65,0.7,0.73,0.77,0.8,0.88,0.94,1,1.03
+Mongolia,MNG,cpi,0.59,0.63,0.73,-,0.9,-,0.96,-,1.07
+Montenegro,MNE,cpi,0.88,0.91,0.95,0.97,0.96,0.98,0.98,1,1.03
+Morocco,MAR,cpi,-,-,-,0.96,-,-,-,-,-
+Mozambique,MOZ,cpi,-,-,-,-,0.73,-,-,-,-
+Myanmar,MMR,cpi,-,-,-,-,-,0.85,-,0.99,-
+Namibia,NAM,cpi,-,-,-,-,-,0.9,-,-,-
+Nauru,NRU,cpi,-,-,0.8,-,-,-,-,-,-
+Nepal,NPL,cpi,0.59,-,-,-,-,-,-,-,-
+Netherlands,NLD,cpi,0.9,0.92,0.94,0.97,0.98,0.98,0.99,1,1.02
+Nicaragua,NIC,cpi,-,-,-,-,0.91,-,-,-,-
+Niger,NER,cpi,-,0.95,-,-,0.96,-,-,-,1.02
+Nigeria,NGA,cpi,1.21,-,1.21,-,-,1.21,-,-,1.21
+North Macedonia,MKD,cpi,0.9,0.94,0.97,0.99,0.99,0.99,0.99,1,1.01
+Norway,NOR,cpi,0.87,0.88,0.89,0.91,0.93,0.95,0.98,1,1.03
+Pakistan,PAK,cpi,0.68,0.75,-,0.88,-,0.94,-,-,1.09
+Panama,PAN,cpi,0.83,0.87,0.92,0.96,0.98,0.99,0.99,1,1.01
+Papua New Guinea,PNG,cpi,-,-,-,-,-,-,-,-,-
+Paraguay,PRY,cpi,0.76,0.8,0.83,0.87,0.9,0.93,0.96,1.01,1.05
+Peru,PER,cpi,0.8,0.82,0.85,0.88,0.91,0.94,0.97,1,1.02
+Philippines,PHL,cpi,-,-,0.9,-,-,0.96,-,-,1.05
+Poland,POL,cpi,0.91,0.95,0.98,0.99,0.99,0.99,0.98,1,1.02
+Portugal,PRT,cpi,0.92,0.95,0.98,0.98,0.98,0.98,0.99,1,1.01
+Romania,ROU,cpi,0.88,0.93,0.96,1,1.01,1,0.99,1,1.05
+Russian Federation,RUS,cpi,0.59,0.64,0.68,0.72,0.78,0.9,0.96,1,1.03
+Rwanda,RWA,cpi,0.66,-,-,0.82,-,-,0.98,-,-
+Samoa,WSM,cpi,-,-,-,0.97,-,-,-,-,-
+Sao Tome and Principe,STP,cpi,582.73,-,-,-,-,-,-,1000,-
+Senegal,SEN,cpi,-,0.97,-,-,-,-,-,-,1.01
+Serbia,SRB,cpi,0.72,-,0.86,0.93,0.95,0.96,0.97,1,1.02
+Seychelles,SYC,cpi,-,-,-,0.93,-,-,-,-,1.04
+Sierra Leone,SLE,cpi,-,0.61,-,-,-,-,-,-,1.16
+Slovak Republic,SVK,cpi,0.91,0.95,0.98,1,1,0.99,0.99,1,1.03
+Slovenia,SVN,cpi,0.93,0.95,0.97,0.99,0.99,0.99,0.99,1,1.02
+Solomon Islands,SLB,cpi,-,-,0.94,-,-,-,-,-,-
+South Africa,ZAF,cpi,0.72,-,-,-,0.89,-,-,-,-
+South Sudan,SSD,cpi,-,-,-,-,-,-,0.07,-,-
+Spain,ESP,cpi,0.92,0.95,0.98,0.99,0.99,0.98,0.98,1,1.02
+Sri Lanka,LKA,cpi,-,-,0.81,-,-,-,0.93,-,-
+St. Lucia,LCA,cpi,-,-,-,-,-,-,1.01,-,-
+Sudan,SDN,cpi,-,-,-,-,0.59,-,-,-,-
+Suriname,SUR,cpi,-,-,-,-,-,-,-,-,-
+Sweden,SWE,cpi,0.94,0.97,0.98,0.97,0.97,0.97,0.98,1,1.02
+Switzerland,CHE,cpi,1.02,1.02,1.01,1.01,1.01,1,0.99,1,1.01
+Syrian Arab Republic,SYR,cpi,-,-,-,-,-,-,-,-,-
+"Taiwan, China",TWN,cpi,0.93,-,-,0.97,-,-,0.99,-,-
+Tajikistan,TJK,cpi,-,-,-,-,-,0.88,-,-,-
+Tanzania,TZA,cpi,-,0.72,-,-,-,-,-,1.03,-
+Thailand,THA,cpi,0.9,0.93,0.96,0.98,1,0.99,0.99,1,1.01
+Timor-Leste,TLS,cpi,-,-,-,-,1,-,-,-,-
+Togo,TGO,cpi,-,0.93,-,-,-,1,-,-,1.01
+Tonga,TON,cpi,-,-,-,-,-,0.91,-,-,-
+Trinidad and Tobago,TTO,cpi,-,-,-,-,-,-,-,-,-
+Tunisia,TUN,cpi,0.75,-,-,-,-,0.93,-,-,-
+Turkiye,TUR,cpi,0.57,0.61,0.66,0.71,0.78,0.83,0.9,1,1.16
+Turkmenistan,TKM,cpi,-,-,-,-,-,-,-,-,-
+Tuvalu,TUV,cpi,0.86,-,-,-,-,-,-,-,-
+Uganda,UGA,cpi,-,-,0.81,-,-,-,0.97,-,-
+Ukraine,UKR,cpi,0.42,0.46,0.46,0.46,0.52,0.77,0.87,1,1.11
+United Arab Emirates,ARE,cpi,-,-,-,0.92,-,-,-,-,1.03
+United Kingdom,GBR,cpi,0.87,0.9,0.93,0.95,0.96,0.97,0.98,1,1.02
+United States,USA,cpi,0.89,0.92,0.94,0.95,0.97,0.97,0.98,1,1.02
+Uruguay,URY,cpi,0.55,0.59,0.64,0.69,0.74,0.81,0.88,0.95,1.02
+Uzbekistan,UZB,cpi,-,-,-,-,-,-,-,-,-
+Vanuatu,VUT,cpi,0.9,-,-,-,-,-,-,-,-
+"Venezuela, RB",VEN,cpi,-,-,-,-,-,-,-,-,-
+Vietnam,VNM,cpi,0.62,-,0.82,-,0.93,-,0.94,-,1.02
+West Bank and Gaza,PSE,cpi,0.9,0.93,-,-,-,-,1,-,-
+"Yemen, Rep.",YEM,cpi,-,-,-,-,0.52,-,-,-,-
+Zambia,ZMB,cpi,0.55,-,-,-,-,0.8,-,-,-
+Zimbabwe,ZWE,cpi,-,0.98,-,-,-,-,-,1,-
